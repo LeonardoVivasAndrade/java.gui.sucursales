@@ -5,10 +5,7 @@ import java.util.Date;
 import javax.swing.JOptionPane;
 
 /**
- * 
  * @author Angel Leonardo Vivas Andrade - codigo 1151646 Ing. de Sistemas UFPS
- * @since 2018
- * 
  */
 public class Sucursal {
 

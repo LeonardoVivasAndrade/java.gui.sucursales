@@ -1,18 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package MUNDO;
 import Animacion.Fade;
 import VISTA.GUI;
-import java.util.Date;
 
 /**
- *
- * @author Angel Leonardo Vivas Andrade - codigo 1151646 Ing. de Sistemas UFPS
- * @since 2018
- * 
+ * @author Angel Leonardo Vivas Andrade - codigo 1151646 Ing. de Sistemas UFPS 
  */
 public class Main {
     public static void main(String[] args) {

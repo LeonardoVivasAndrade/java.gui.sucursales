@@ -4,10 +4,7 @@ package MUNDO;
 import java.util.Date;
 
 /**
- *
  * @author Angel Leonardo Vivas Andrade - codigo 1151646 Ing. de Sistemas UFPS
- * @since 2018
- * 
  */
 public class Producto {
     
